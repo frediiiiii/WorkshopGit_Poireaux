@@ -1,0 +1,22 @@
+{
+  "name": "pet_sitting",
+  "version": "1.0.0",
+  "description": "Ce projet est le développement d'une application web dans le cadre de U36 - Ecole Polytechnique.",
+  "main": "pet_sitting_index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frediiiiii/WorkshopGit_Poireaux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frediiiiii/WorkshopGit_Poireaux/issues"
+  },
+  "homepage": "https://github.com/frediiiiii/WorkshopGit_Poireaux#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
